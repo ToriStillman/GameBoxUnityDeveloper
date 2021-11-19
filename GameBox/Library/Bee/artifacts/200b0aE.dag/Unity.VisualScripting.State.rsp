@@ -303,6 +303,7 @@
 -r:"/Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
+-r:"/Users/toristillman/Desktop/Study Unity/GameBox/GameBox/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll"
 -r:"/Users/toristillman/Desktop/Study Unity/GameBox/GameBox/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll"
 -r:"/Users/toristillman/Desktop/Study Unity/GameBox/GameBox/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll"
 -r:"/Users/toristillman/Desktop/Study Unity/GameBox/GameBox/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"
