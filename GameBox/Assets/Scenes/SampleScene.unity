@@ -3468,6 +3468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45d9109e580ac453d804ff1b27db3c21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  buttonMenu: {fileID: 809143248}
 --- !u!114 &591158064
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4241,8 +4242,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 385.63882, y: 251.18138, z: -0.73431396}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1315365082}
+  m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -7980,7 +7980,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &1315365080
 Animator:
   serializedVersion: 3
@@ -7991,7 +7991,7 @@ Animator:
   m_GameObject: {fileID: 1315365079}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 8a2686cd53284486caeecdc5605b9115, type: 2}
+  m_Controller: {fileID: 9100000, guid: e5e20276038a44949a34415c191fc0b5, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8050,8 +8050,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1854476670}
-  m_Father: {fileID: 760287508}
-  m_RootOrder: 0
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 10.268, y: -90.65, z: 0.029}
 --- !u!1001 &1320491791
 PrefabInstance:

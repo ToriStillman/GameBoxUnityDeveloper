@@ -1,9 +1,7 @@
-﻿Описание управления - перемещение игрока A D или стрелками
-Где находятся значения для настройки проекта - PlayerController, DistanceController
-Ссылка на ПК билд https://drive.google.com/file/d/11UOsTh6HGW79xy0ircKsq-dqpxBnBA3W/view?usp=sharing
 
 
-Я хотела в последний день поправить иерархию DistanceController и BonusController, вынести все ScriptableObjects в отдельный скрипт, но к сожалению, после вакцинации близкий мне человек сильно заболел, поэтому хотела предупредить что код не совсем идеальный.
-
-
+Описание управления - перемещение игрока A D или стрелками
+Где находятся значения для настройки проекта - PlayerController, DistanceController, BonusController
+Ссылка на ПК билд https://drive.google.com/drive/folders/159kJrgTs6Nq5wgTLtFLEusAd0DApxFP-?usp=sharing
 Приятной игры!
+Надеюсь вам все понравится :)
